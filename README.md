@@ -18,4 +18,3 @@ Desenvolver uma aplicação para simular leituras de sensores.
 - src: código principal
 - tests: código de testes
 - docs: documentação
-
