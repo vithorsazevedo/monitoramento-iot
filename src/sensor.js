@@ -1,5 +1,5 @@
 function lerTemp(){
-    return 25
+    return 28
 }
 
 module.exports = {
