@@ -1,5 +1,8 @@
 function lerTemp(){
-    return 25
+    return {
+        temperatura: 20 + Math.random()*15,
+        umidade: 40 + Math.random * 30
+    }
 }
 
 module.exports = {
